@@ -3,6 +3,6 @@ html {
 }
 
 .label {
-  color: green;
-  text-decoration: underline;
+ font-size:30px;
+ padding:10px;
 }
