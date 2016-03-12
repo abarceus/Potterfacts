@@ -1,3 +1,7 @@
 html {
   font-family: 'Calibri';
 }
+
+.label {
+  color: red;
+}
