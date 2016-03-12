@@ -3,5 +3,6 @@ html {
 }
 
 .label {
-  color: red;
+  color: green;
+  text-decoration: underline;
 }
