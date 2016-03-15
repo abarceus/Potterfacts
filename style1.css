@@ -5,6 +5,8 @@
 .character {
  font-size:30px;
  color:black;
- text-decoration:none;
  padding:10px;
+}
+.heading {
+  font-size:34px
 }
