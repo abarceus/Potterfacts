@@ -1,3 +1,8 @@
-html {
- text-align : center;
+.html {
+  background-color:	#FFD700;
+  text-decoration:none;
+  }
+.character {
+ font-size:30px;
+ color:black;
 }
