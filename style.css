@@ -1,5 +1,8 @@
 
-
+html {
+ text-align:center;
+ margin:auto;
+}
 
 .label {
  font-size:15px;
@@ -9,11 +12,7 @@
 .heading {
   font-size:34px
 }
-.html {
-  background-color:	#FFD700;
-  text-decoration:none;
-  
-}
+
  .gryffindor {
    background-color:orange
    
