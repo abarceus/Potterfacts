@@ -16,7 +16,9 @@ h1 {
     padding :10px
     
   }
-
+img { 
+   border:2px solid #021a40;
+}
 .label {
  font-size:15px;
  padding:10px;
