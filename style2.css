@@ -1,4 +1,9 @@
- body {
+ 
+ html {
+    text-align:center;
+
+  }
+body {
     font-family :calibri ;
     text-align:center;
     font-size:15px
@@ -10,4 +15,16 @@
     font-size:50px;
     padding :10px
     
+  }
+.gryffindor {
+   background-color:orange
+  }
+  .slytherin {
+    background-color:green
+  }
+   .ravenclaw {
+    background-color:grey
+  }
+    .hufflepuff {
+    background-color:yellow
   }
