@@ -37,7 +37,7 @@ img {
    background-color:orange
   }
   .slytherin {
-  background: url(http://images.8tracks.com/cover/i/002/048/340/backgrounds-green-patterns-textures-1720456-2560x1600-937.jpg?rect=480,0,1600,1600&q=98&fm=jpg&fit=max&w=1024&h=1024) green no-repeat center center ; 
+  background: url(http://images.8tracks.com/cover/i/002/048/340/backgrounds-green-patterns-textures-1720456-2560x1600-937.jpg?rect=480,0,1600,1600&q=98&fm=jpg&fit=max&w=1024&h=1024) green no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
