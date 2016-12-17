@@ -37,8 +37,11 @@ img {
    background-color:orange
   }
   .slytherin {
-  background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ54isqPcUC6mU969b2MOqqKRNMdvackC-zUC2PI8bjThqVDx-pQQ) green ;
-  }
+  background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ54isqPcUC6mU969b2MOqqKRNMdvackC-zUC2PI8bjThqVDx-pQQ) green ;
+  position: relative;
+  background-repeat:no-repeat;
+  background-size:100% 100vh;
+}
    .ravenclaw {
     background-color:grey
   }
