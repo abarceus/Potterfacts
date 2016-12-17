@@ -9,6 +9,9 @@ body {
     font-size:15px
     
   }
+div {
+position :fixed;
+}
 h1 {
     font-family :lucida handwritten ;
     text-align:center;
