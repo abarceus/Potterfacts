@@ -37,7 +37,11 @@ img {
  
 }
 .gryffindor {
-   background-color:orange
+   background: url(http://img13.deviantart.net/2587/i/2015/254/0/3/harry_potter_wallpaper__gryffindor_stripes_by_theladyavatar-d5z2f66.jpg) orange no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   }
   .slytherin {
   background: url(http://images.8tracks.com/cover/i/002/048/340/backgrounds-green-patterns-textures-1720456-2560x1600-937.jpg?rect=480,0,1600,1600&q=98&fm=jpg&fit=max&w=1024&h=1024) green no-repeat center center fixed; 
@@ -47,8 +51,16 @@ img {
   background-size: cover;
 }
    .ravenclaw {
-    background-color:grey
+   background: url(https://s-media-cache-ak0.pinimg.com/originals/0c/6f/32/0c6f32fc76eda8690fcff50b2e4f9a7c.jpg) grey no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   }
     .hufflepuff {
-    background-color:yellow
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82tYFEsw_l2amyNxvqxZuE8jFDUlTwA5ky8CicYrFl0jDB7YO) yellow no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   }
