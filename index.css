@@ -2,22 +2,19 @@ html {
   background-color:	#FFD700;
   text-decoration:none;
   }
-.character {
- font-size:30px;
- color:black;
- padding:10px;
-}
-.heading {
-  font-size:34px
-}
 a {
-  font-size:30px;
+  font-size:34px;
  padding:10px
-}
+  }
 h1 {
-    font-family :lucida handwritten ;
+    font-family :"lucida handwritten" ;
     text-align:center;
     font-size:50px;
     padding :15px
     
+  }
+.character {
+ font-size:30px;
+ color:black;
+ padding:10px;
   }
