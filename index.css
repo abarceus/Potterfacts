@@ -1,4 +1,4 @@
-.html {
+html {
   background-color:	#FFD700;
   text-decoration:none;
   }
@@ -14,7 +14,7 @@ a {
   font-size:30px;
  padding:10px
 }
-.h1 {
+h1 {
     font-family :lucida handwritten ;
     text-align:center;
     font-size:50px;
