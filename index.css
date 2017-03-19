@@ -5,7 +5,7 @@ html{
 a {
   font-size:34px;
  padding:10px
- text-decoration:none;
+ 
   }
 h1{
   font-family: 'Jim Nightshade', cursive;  
@@ -20,6 +20,7 @@ h1{
  font-size:30px;
  color:black;
  padding:10px;
+  text-decoration:none;
   }
 h2{
 font-family:'Architects Daughter', cursive;
