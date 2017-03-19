@@ -1,6 +1,5 @@
 html {
   background-color:	#FFD700;
-    font-family :"lucida handwriting" ;
   text-decoration:none;
   }
 a {
@@ -11,7 +10,8 @@ h1 {
     text-align:center;
     font-size:50px;
     padding :15px
-    
+    font-family:'Satisfy', cursive;
+
   }
 .character {
  font-size:30px;
@@ -19,5 +19,6 @@ h1 {
  padding:10px;
   }
 h2{
-font-family:"roboto"
+font-family: 'Architects Daughter', cursive;
+
 }
