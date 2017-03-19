@@ -3,12 +3,14 @@ html{
  
   }
 a {
+  color:black;
   font-size:34px;
  padding:10px
  
   }
 a:link {
     text-decoration: none;
+  
 }
 
 a:visited {
