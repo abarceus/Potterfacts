@@ -1,5 +1,6 @@
 html {
   background-color:	#FFD700;
+    font-family :"lucida handwriting" ;
   text-decoration:none;
   }
 a {
@@ -7,7 +8,6 @@ a {
  padding:10px
   }
 h1 {
-    font-family :"lucida handwriting" ;
     text-align:center;
     font-size:50px;
     padding :15px
