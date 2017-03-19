@@ -44,14 +44,31 @@ img {
   background-size: cover;
  
   }
-  .slytherin {
+  .slytheri {
   background: url(https://s-media-cache-ak0.pinimg.com/originals/1b/a3/76/1ba37601077b40651fbed7f078363ac5.jpg) green no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-   opacity:0.2;
+  
 }
+#s {
+   position: relative;
+}
+#s:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(https://s-media-cache-ak0.pinimg.com/originals/1b/a3/76/1ba37601077b40651fbed7f078363ac5.jpg); 
+    width: 100%;
+    height: 100%;
+    opacity : 0.2;
+    z-index: -1;
+}
+
+
    .ravenclaw {
    background: url(https://s-media-cache-ak0.pinimg.com/originals/0c/6f/32/0c6f32fc76eda8690fcff50b2e4f9a7c.jpg) grey no-repeat center center fixed; 
   -webkit-background-size: cover;
