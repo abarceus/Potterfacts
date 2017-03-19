@@ -2,43 +2,64 @@
 html {
  text-align:center;
  margin:auto;
+ padding-bottom:100px;
 }
-
-.label {
- font-size:15px;
- padding:10px;
- color : blue;
+img { 
+    padding:2px;
+    border:2px solid #021a40;
+    background-color:white;
 }
 .heading {
   font-size:34px
 }
-
+div {
+position :fixed;
+}
  .gryffindor {
-   background-color:orange
-   
+   background-color: #fb7e00
+   color: #fff;
  } 
   .slytherin {
-    background-color:green
-    
+    background-color: #003e00;
+    color: #fff;
+}
   }
   .ravenclaw {
-    background-color:grey
+        background-color: #004e80;
+    color: #fff;
+}
     
   }
   .hufflepuff {
-    background-color:yellow
+    background-color: #f2b800;
+    color: #333;
+}
     
   }
   .body {
-    font-family :calibri ;
+    font-family :"calibri" ;
     text-align:center;
     font-size:15px
     
   }
   .h1 {
-    font-family :lucida handwritten ;
+    font-family :"lucida handwritten" ;
     text-align:center;
     font-size:50px;
     padding :10px
     
+  }
+  .description {
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 98.30508%;
+    font: 24px/32px "Magorian Regular",Georgia,Times,"Times New Roman",serif;
+
+  }
+  .fact {
+    margin-bottom: 5px;
+    font: 12px/18px "Roboto Regular",Arial,sans;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
   }
