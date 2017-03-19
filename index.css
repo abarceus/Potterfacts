@@ -7,28 +7,11 @@ a {
  padding:10px
  
   }
-a:link {
+a:link, a:visited, a:hover, a:active {
     text-decoration: none;
   color:black;
 }
 
-a:visited {
-    text-decoration: none;
-    color:black;
-
-}
-
-a:hover {
-    text-decoration: none;
-    color:black;
-
-}
-
-a:active {
-    text-decoration: none;
-    color:black;
-
-}
 h1{
   font-family: 'Jim Nightshade', cursive;  
   text-align:center;
