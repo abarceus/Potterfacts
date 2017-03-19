@@ -7,7 +7,7 @@ a {
  padding:10px
   }
 h1{
-  font-family: 'Satisfy', cursive;  
+  font-family: 'Jim Nightshade', cursive;  
   text-align:center;
     font-size:50px;
     padding :15px
@@ -15,6 +15,7 @@ h1{
 
   }
 .character {
+  font-family: 'Satisfy', cursive;
  font-size:30px;
  color:black;
  padding:10px;
