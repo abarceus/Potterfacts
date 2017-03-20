@@ -80,6 +80,7 @@ margin-left:250px;
     margin-right: auto;
     max-width: 98.30508%;
     font: 12px "Magorian Regular",Georgia,Times,"Times New Roman",serif;
+   text-align:center;
 
   }
   .fact {
@@ -87,4 +88,5 @@ margin-left:250px;
     font: 12px "Roboto Regular",Arial,sans;
     letter-spacing: 1.5px;
     text-transform: uppercase;
+   text-align:center;
   }
