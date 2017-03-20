@@ -70,3 +70,8 @@ img {
   -o-background-size: cover;
   background-size: cover;
   }
+.green{
+background-color:#32CD32;
+margin-right:100px; 
+margin-left:100px;
+}
