@@ -44,7 +44,7 @@ img {
   background-size: cover;
  
   }
-  .slytheri {
+  .slytherin {
   background: url(https://s-media-cache-ak0.pinimg.com/originals/1b/a3/76/1ba37601077b40651fbed7f078363ac5.jpg) green no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -66,6 +66,10 @@ img {
     height: 100%;
     opacity : 0.2;
     z-index: -1;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
