@@ -52,12 +52,15 @@ img {
   -o-background-size: cover;
   background-size: cover;
 }
-.slytherin html {
- padding:150px;
- background-color:#32CD32;
- line-height:1.4;
-} 
 
+.green{ 
+  background-color:#32CD32;
+  position: absolute;
+  height: 60%;
+  width: 60%;
+  left: 20%;
+  top: 20%;
+}
 
 
    .ravenclaw {
