@@ -35,7 +35,9 @@ img {
  font-size:15px;
  padding:10px;
  color : white;
- 
+ background:green;
+ left:100px
+  right:100px
 }
 .gryffindor {
    background: url(http://img13.deviantart.net/2587/i/2015/254/0/3/harry_potter_wallpaper__gryffindor_stripes_by_theladyavatar-d5z2f66.jpg) orange no-repeat center center fixed; 
@@ -51,15 +53,6 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-.green{ 
-  background-color:#32CD32;
-  position: absolute;
-  height: 60%;
-  width: 60%;
-  left: 20%;
-  top: 20%;
 }
 
 
