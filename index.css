@@ -8,7 +8,7 @@ html {
 html::after {
   content: "";
   background: url(http://www.botherland.com/wp-content/uploads/2017/04/Harry-Potter-Houses-Wallpaper-8.jpg) no-repeat center center fixed;
-  opacity: 0.1;
+  opacity: 0.5;
   top: 0;
   left: 0;
   bottom: 0;
