@@ -1,11 +1,11 @@
 
-body {
+b  ody {
     position: relative;
     background: white;
     overflow: hidden;
 }
 /* You could use :after - it doesn't really matter */
-body:before {
+bo  dy:before {
     content: ' ';
     display: block;
     position: absolute;
@@ -24,7 +24,14 @@ body:before {
     -webkit-background-size: cover;
     background-size: cover;
 }
-
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity:0.2;  
+}
 a {
   font-size:34px;
  padding:10px
