@@ -1,12 +1,7 @@
-html{
-  background-color:	#FFD700;
- 
-  }
-	
-#main {
+html {
    position: relative;
 }
-#main:after {
+html:after {
     content : "";
     display: block;
     position: absolute;
