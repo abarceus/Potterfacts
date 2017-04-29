@@ -1,7 +1,7 @@
 
 body {
     position: relative;
-    background: #5C97FF;
+    background: white;
     overflow: hidden;
 }
 /* You could use :after - it doesn't really matter */
