@@ -19,23 +19,32 @@ a {
   font-size:34px;
  padding:10px
  
-  }
+}
+
 a:link, a:visited, a:active {
     text-decoration: none;
   color:black;
 }
+
 a:hover{
 text-decoration:none;
   color:#D85A3F;
 }
+
 h1{
   font-family: 'Jim Nightshade', cursive;  
   text-align:center;
-    font-size:55px;
-    padding :13px
+    font-size:50px;
+    padding :10px
     
 
-  }
+}
+
+h2{
+font-family:'Architects Daughter', cursive;
+text-align:center;
+}
+
 .character {
   font-family: 'Satisfy', cursive;
  font-size:30px;
@@ -43,7 +52,4 @@ h1{
  padding:10px;
   text-decoration:none;
   }
-h2{
-font-family:'Architects Daughter', cursive;
-text-align:center;
-}
+
